@@ -1,0 +1,11 @@
+Package: addinsbyws
+Type: Package
+Title: Makes a GITHUB repo (private or public)
+Version: 0.1.0
+Author: WS
+Maintainer: WS <wayne.s.stewart@ou.edu>
+Description: Makes a repo on GITHUB.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1

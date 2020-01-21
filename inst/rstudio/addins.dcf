@@ -1,0 +1,11 @@
+Name: Create Private GITHUB repo
+Description: Creates GITHUB repo by usin PAT.
+Binding: GHRepoPrivate
+Interactive: false
+
+Name: Create Public GITHUB repo
+Description: Creates GITHUB repo by usin PAT.
+Binding: GHRepoPublic
+Interactive: false
+
+
