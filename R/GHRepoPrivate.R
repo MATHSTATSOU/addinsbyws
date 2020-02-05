@@ -7,5 +7,8 @@
 #' GHRepoPublic()
 GHRepoPublic=function(){
   require(usethis)
-  usethis::use_github(private=FALSE, protocol="https",auth_token = github_token())
+  usethis::use_github(private=FALSE,
+                      protocol="https",
+                      auth_token = github_token()
+                      )
 }

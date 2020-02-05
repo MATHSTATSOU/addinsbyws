@@ -2,3 +2,4 @@
 
 export(GHRepo)
 export(GHRepoPublic)
+export(myread)
